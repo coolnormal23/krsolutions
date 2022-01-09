@@ -1,2 +1,2 @@
 # krsolutions
-Personal solutions for the "The C Programming Language"
+Personal solutions for the "The C Programming Language" exercises
